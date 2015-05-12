@@ -1,8 +1,7 @@
-#  GettingandCleaningData
- Getting and Cleaning Data Course Project
+#  Getting and Cleaning Data Course Project
 
 
-Script Description
+#  Script Description
 
 The script run_analysis.R performs the following operations:
 1 )  Installs and loads plyr and dplyr packages.
@@ -19,7 +18,7 @@ The script run_analysis.R performs the following operations:
 10)  Saves FirstDataset and SecondDataset to the working directory in both csv and txt file formats.
 
 
-Code Book
+#  Code Book
 
 Descriptions of the variables contained in the FirstDataset are as follows:
 
@@ -106,8 +105,6 @@ Descriptions of the variables contained in the FirstDataset are as follows:
 80) 	fBodyBodyGyroJerkMag-mean():  
 81) 	fBodyBodyGyroJerkMag-meanFreq():  
 
-
-run_analysis.R
 
 #   Getting and Cleaning Data Course 
 #   Week #3 Project: The goal is to prepare tidy data that can be used for later
