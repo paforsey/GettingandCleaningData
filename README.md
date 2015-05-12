@@ -20,3 +20,8 @@ The script run_analysis.R performs the following operations:
 
 Code Book
 
+Descriptions of the variables contained in the FirstDataset are as follows:
+
+1 )  Subject- 
+2 )  Activity- 
+
