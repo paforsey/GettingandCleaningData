@@ -17,3 +17,6 @@ The script run_analysis.R performs the following operations:
      called "SecondDataset".
 10)  Saves FirstDataset and SecondDataset to the working directory in both csv and txt file formats.
 
+
+Code Book
+
