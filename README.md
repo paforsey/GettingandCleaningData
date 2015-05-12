@@ -25,6 +25,9 @@ Descriptions of the variables contained in the FirstDataset are as follows:
 1 )  Subject: Unique identifier used for each of the 30 volunteers.  Preset Integer Values: 1 - 30.
 2 )  Activity: type of activity performed by each subject.  Preset Character Values: WALKING, WALKING_UPSTAIRS,
      WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING. 
+1 )  Subject: Unique identifier used for each of the 30 volunteers.  Preset Integer Values: 1 - 30.
+2 )  Activity: type of activity performed by each subject.  Preset Character Values: WALKING, WALKING_UPSTAIRS,
+     WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.
 3 ) 	tBodyAcc-std()-X:  
 4 ) 	tBodyAcc-std()-Y:  
 5 ) 	tBodyAcc-std()-Z:  
