@@ -103,3 +103,4 @@ Descriptions of the variables contained in the FirstDataset are as follows:
 80) 	fBodyBodyGyroJerkMag-mean(): Mean value estimated from signal.  
 81) 	fBodyBodyGyroJerkMag-meanFreq(): Mean value estimated from signal.  
 
+  
