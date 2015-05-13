@@ -1,7 +1,7 @@
-#  Getting and Cleaning Data Course Project
+##  Getting and Cleaning Data Course Project
 
 
-#  Script Description
+##  Script Description
 
 The script run_analysis.R performs the following operations:  
 1 )  Installs and loads plyr and dplyr packages.  
@@ -16,7 +16,7 @@ The script run_analysis.R performs the following operations:
 10)  Saves FirstDataset and SecondDataset to the working directory in both csv and txt file formats.  
 
 
-#  Code Book
+##  Code Book
 
 Descriptions of the variables contained in the FirstDataset are as follows:
 
