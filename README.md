@@ -12,7 +12,7 @@ The script run_analysis.R performs the following operations:
 6 )  Reads data from subject_test.txt, y_test.txt, and x_test.txt files and combines data into dataframe called "Testing".  
 7 )  Combines Training and Testing datasets into a single dataframe called "MergedDataset".  
 8 )  Removes unnecessary variable columns from MergedDataset to create the first of two outputs called "FirstDataset".  
-9 )  Calculates the average for each variable by Subject and Activity from FirstDataset to create a second called "SecondDataset".    
+9 )  Calculates the average for each variable by Subject and Activity from FirstDataset to create a second dataset called "SecondDataset".    
 10)  Saves FirstDataset and SecondDataset to the working directory in both csv and txt file formats.  
 
 
