@@ -26,7 +26,6 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
   
   
 The following was provided for each record:
-
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
 - A 561-feature vector with time and frequency domain variables.
@@ -34,8 +33,9 @@ The following was provided for each record:
 - An identifier of the subject who carried out the experiment.
   
   
-Descriptions of the variables contained in the FirstDataset are as follows:
+### Variable Descriptions
 
+Descriptions of the variables contained in the FirstDataset are as follows:
 1 )  Subject: Unique identifier used for each of the 30 volunteers.  Preset Integer Values: 1 - 30.  
 2 )  Activity: Type of activity performed by each subject.  Preset Character Values: WALKING, WALKING_UPSTAIRS,  
      WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.  
