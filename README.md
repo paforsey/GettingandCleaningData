@@ -102,7 +102,7 @@ Descriptions of the variables contained in the FirstDataset are as follows:
 79) 	fBodyBodyGyroMag-meanFreq(): Mean value estimated from signal.  
 80) 	fBodyBodyGyroJerkMag-mean(): Mean value estimated from signal.  
 81) 	fBodyBodyGyroJerkMag-meanFreq(): Mean value estimated from signal.  
-
+  
   
   
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012.  
