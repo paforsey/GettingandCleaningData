@@ -4,6 +4,7 @@
 ##  Script Description
 
 The script run_analysis.R performs the following operations:  
+  
 1 )  Installs and loads plyr and dplyr packages.  
 2 )  Downloads and unzips Samsung compressed data file into working directory.  
 3 )  Reads data from activity_labels.txt file into dataframe "Activities".  
@@ -91,6 +92,7 @@ The complete list of the 81 variables of each feature vector used in the final d
 ### Variable Descriptions
   
 Descriptions of the variables contained in the FirstDataset are as follows:  
+  
 1 )  Subject: Unique identifier used for each of the 30 volunteers.  Preset Integer Values: 1 - 30.  
 2 )  Activity: Type of activity performed by each subject.  Preset Character Values: WALKING, WALKING_UPSTAIRS,  
      WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.  
